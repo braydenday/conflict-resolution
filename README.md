@@ -1,2 +1,1 @@
-# conflict-resolution
-Brayden's conflict-resolution
+# aaaaaaaaaaaaaaaaaaaaaa this is 2 people making changes
